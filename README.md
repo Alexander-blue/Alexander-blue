@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:0A5A5F,100:0F7C82&height=220&section=header&text=Weiqi%20Liu&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Product%20Management%20%E2%80%A2%20Applied%20ML%20%E2%80%A2%20DL%20%E2%80%A2%20NLP&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Weiqi Liu animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0F7C82&center=true&vCenter=true&width=820&lines=Bridging+17+years+of+enterprise+delivery+with+AI;Utilities+%7C+GovTech+%7C+Supply+Chain+%7C+Healthcare;Turning+domain+expertise+into+deployable+AI" alt="Animated typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0F7C82&center=true&vCenter=true&width=820&lines=Bridging+8+years+of+enterprise+delivery+with+AI;Utilities+%7C+GovTech+%7C+Supply+Chain+%7C+Healthcare;Turning+domain+expertise+into+deployable+AI" alt="Animated typing introduction"/>
 
 <br/>
 
