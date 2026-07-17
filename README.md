@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I am an **enterprise AI product and delivery specialist** with **17 years** implementing business-critical software, now studying a **Master of AI in Business (MAIB)** in Dubai — bringing deep domain know-how to where AI actually ships.
+I am an **enterprise AI product and delivery specialist** with **8 years** implementing business-critical software, now studying a **Master of AI in Business (MAIB)** in Dubai — bringing deep domain know-how to where AI actually ships.
 
 My work sits at the intersection of:
 
